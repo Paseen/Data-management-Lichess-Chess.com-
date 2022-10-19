@@ -46,4 +46,5 @@ After that it was possible to join the JSON documents.
 ## Data modelling
 
 Since the data didn't have a precise schema it was decided to use MongoDB, a NoSQL DBSM, to store it and analyse the data using its analytical tools.    
-
+<br>
+For a more in-depth analysis of this work consult the "Report Data Management" PowerPoint
