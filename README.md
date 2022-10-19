@@ -1,7 +1,7 @@
 # Lichess-Chess.com-Data-management
 
 The goal of this project is to create a dataset with data obtained by web scraping and APIs from two different sources, clean the data and store it on a DBSM. <br>
-In this particular case I crawled data from Lichess and Chess.com, stored it on MongoDB and analysed it with its analytics. 
+In this particular case I crawled data from Lichess and Chess.com, stored it on MongoDB and analysed it with its analytics. I also tried to find the users who played on both platforms and create a unique JSON joining the informations from both websites.    
 
 # Data acquisition
 ## Web scraping
