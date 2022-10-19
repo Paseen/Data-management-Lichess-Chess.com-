@@ -7,15 +7,16 @@ In this particular case I crawled data from Lichess and Chess.com, stored it on 
 ## Web scraping
 |Lichess    | N. usernames |
 |--------------|----|
-| "2021 Winter Marathon" Tournament     | 28.480            |
+  | "2021 Winter Marathon" Tournament^1     | 28.480            |
 |Leaderboards    |2.600           |
 
 |Chess.com     | N. usernames |
 |--------------|----|
-| 2022 Chess.com Daily Chess Championship     |32.819             |
+| 2022 Chess.com Daily Chess Championship^2     |32.819             |
 |Leaderboards    |30.000           |
 
-
+^1 https://lichess.org/tournament/winter21
+^2 https://www.chess.com/tournament/2022-chess-com-daily-chess-championship
 ## APIs
 
 
