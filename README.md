@@ -1,6 +1,6 @@
 # Lichess-Chess.com-Data-management
 
-The goal of this project is to create a dataset with data obtained by web scraping and APIs from two different sources, clean the data and store it on a DBSM. 
+The goal of this project is to create a dataset with data obtained by web scraping and APIs from two different sources, clean the data and store it on a DBSM. <br>
 In this particular case I crawled data from Lichess and Chess.com, stored it on MongoDB and analysed it with its analytics. 
 
 # Data acquisition
@@ -23,10 +23,7 @@ $^2$ https://www.chess.com/tournament/2022-chess-com-daily-chess-championship  <
 <sup>3</sup> https://lichess.org/tournament/spring21
 
 ## APIs
-
-
-
-
+Lichess' API provided a unique JSON containing the queried user's public information and data about his chess variants performances, alike Chess.com which provided two separated documents. 
 
 
 The readme is work in progress, I'll complete it soon! :)
