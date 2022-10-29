@@ -2,6 +2,8 @@
 
 The goal of this project is to create a dataset with data obtained by web scraping and APIs from two different sources, clean the data and store it on a DBSM. <br>
 In this particular case I crawled data from Lichess and Chess.com, stored it on MongoDB and analysed it with its analytics. I also tried to find the users who played on both platforms and create a unique JSON joining the informations from both websites.    
+- Cherk the [Report](https://github.com/Paseen/Lichess-Chess.com-Data-management/blob/main/Report%20data%20management.pptx) for a more in-depth analysis
+
 
 # Data acquisition
 ## Web scraping
@@ -47,4 +49,3 @@ After that it was possible to join the JSON documents.
 
 Since the data didn't have a precise schema it was decided to use MongoDB, a NoSQL DBSM, to store it and analyse the data using its analytical tools.    
 <br>
-- For a more in-depth analysis of this work consult the [Report](https://github.com/Paseen/Lichess-Chess.com-Data-management/blob/main/Report%20data%20management.pptx)
